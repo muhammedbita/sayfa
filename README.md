@@ -1,2 +1,0 @@
-#Sayfa
-sayfa
